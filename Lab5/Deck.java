@@ -21,7 +21,6 @@ for(int i=0;i<su.length;i++)
  i2++;
  }
 }
-
 }
 
  public void shuffle( )
