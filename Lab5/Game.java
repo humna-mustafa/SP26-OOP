@@ -1,9 +1,7 @@
 public class Game
 {
-
  Player p[];
  Deck d ;
-
 
 Game(String n[])
 {
@@ -20,14 +18,12 @@ for(int i=0;i<n.length;i++)
  playNow();
 }
 
-
  public void playNow( )
 {
 
  for(int r=1;r<=p.length;r++)
 {
  System.out.println("Round "+r+":");
-
  for(int i=0;i<p.length;i++)
 {
  p[i].set( d.drawCard() );
@@ -54,7 +50,6 @@ for(int i=0;i<n.length;i++)
  System.out.print( p[i].name+" " );
 }
 }
-
  System.out.println();
  System.out.println();
 
