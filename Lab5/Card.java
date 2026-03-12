@@ -2,7 +2,7 @@ public class Card
 {
 
  private final String SUIT ;
-  private final String RANK;
+ private final String RANK;
  int value;
 
    Card(String s,String r,int v)
