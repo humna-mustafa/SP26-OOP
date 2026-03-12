@@ -1,1 +1,11 @@
-# SP26-OOP
+# OOPs-Java
+---
+
+## Description
+This repository contains all my **Java programs, labs, and exercises** for the **Object-Oriented Programming (OOPs) course** at **COMSATS University Lahore**.  
+
+It is a **OOP course repository** where I push all assignments, exercises, and mini-projects completed during the semester.  
+The goal is to **practice Java fundamentals and OOP concepts**, including classes, objects, inheritance, polymorphism, encapsulation, abstraction, and more.
+
+---
+
