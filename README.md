@@ -8,4 +8,7 @@ This is a **OOP course repository** where I push all assignments, exercises, and
 The goal is to **practice Java fundamentals and OOP concepts**, including classes, objects, inheritance, polymorphism, encapsulation, abstraction, and more.
 
 ---
+## Author
+Humna Mustafa
+FA25-BSE-051
 
