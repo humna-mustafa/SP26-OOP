@@ -4,7 +4,6 @@ public class Player
  int score;
  Card cd;
 
-
  Player(String n)
 {
 name=n;
