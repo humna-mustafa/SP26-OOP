@@ -1,15 +1,15 @@
-public class Demo {
-    public static void main(String[] args) {
+public class Demo
+{
 
-        // Deck deck = new Deck();
-        // deck.displayDeck();
-        // deck.shuffle();
-        // System.out.println();
-        // deck.displayDeck();
+ public static void main(String a[])
+{
 
-        String names[] = {"Humna", "Ayesha", "Fatima"};
-        Game game1 = new Game(names);
+ String names [] = {"Humna","Mustafa","Amna"} ;
 
-        System.out.println(game1);
-    }
+ Game g = new Game(names);
+
+ System.out.println( g );
+
+}
+
 }
