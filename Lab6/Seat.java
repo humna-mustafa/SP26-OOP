@@ -15,7 +15,7 @@ Seat(int id, int r, String type, double p) {
 
 void bookSeat() {
       booked=true;
-    }
+   }
 
 void showSeat() {
       System.out.println("Seat:"+seatId+" Row:"+row+" Type:"+seatType+" Price:"+price+" Booked:"+booked);
