@@ -12,6 +12,6 @@ class Movie {
     }
 
     void showMovie() {
-        System.out.println("Movie:"+title+" Type:"+type+" Duration:"+duration+" Show:"+showtime);
-    }
+        System.out.println("Movie:"+title+" Type:"+types+" Duration:"+duration+" Show:"+showtime);
+  }
 }
