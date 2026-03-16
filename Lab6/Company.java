@@ -18,5 +18,5 @@ void showCompany() {
                 branches[i].showBranch();
       }
     }
-    }
+  }
 }
