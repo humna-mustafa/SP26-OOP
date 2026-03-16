@@ -20,6 +20,6 @@ Movie m2=new Movie("Avatar","SciFi",170,"9PM");
         c.addBranch(0,b1);
         c.addBranch(1,b2);
 
-        c.showCompany();
+       c.showCompany();
     }
 }
