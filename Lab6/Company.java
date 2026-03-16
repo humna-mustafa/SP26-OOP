@@ -16,7 +16,7 @@ void showCompany() {
         for(int i=0;i<branches.length;i++) {
             if(branches[i]!=null) {
                 branches[i].showBranch();
-        }
       }
+    }
     }
 }
