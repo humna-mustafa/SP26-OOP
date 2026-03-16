@@ -16,7 +16,6 @@ Screen(String id,String type,int rows,int maxCols,Movie m) {
             if(cols<1) cols=1;
             seats[i]=new Seat[cols];
 
-
     for(int j=0;j<cols;j++) {
          String typeSeat="Regular";
           double price=500;
