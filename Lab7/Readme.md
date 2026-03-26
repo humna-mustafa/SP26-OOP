@@ -1,4 +1,4 @@
-# OOP Inheritance Lab
+# OOP Inheritance Lab Task
 Humna Mustafa  
 FA25-BSE-051  
 
