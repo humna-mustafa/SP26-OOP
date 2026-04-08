@@ -14,7 +14,6 @@ CinemaBranch(String name,String c,String add,int count) {
         screens[index]=s;
     }
 
-
 void showBranch() {
     System.out.println("Branch Name: " + branchName);
     System.out.println("Location: " + city + ", " + address);

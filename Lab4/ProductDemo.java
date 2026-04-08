@@ -38,9 +38,6 @@ public class ProductDemo {
   
 	p10.setBrand("Paktel");
 
-	p11.setBrand("Dell");
-	p12.setBrand("Lenovo");
-
 
 	Product p11 =new Product(p10.getName(),p10.getBrand(),p10.getCategory());
 	Product p12=new Product(p9);
@@ -52,13 +49,13 @@ public class ProductDemo {
 
 	System.out.println(p11); 
 
-        	if(p10.getYears.equals(p13.getYears))
+        	if(p10.getExpireyDate.equals(p13.getExpireyDate))
      	       System.out.println("Years are equal");
         else
             System.out.println("Years are not equal");
 
 
-        if(p11.getMinutes.equals(p13.getMinutes))
+        if(p11.getTime.equals(p13.getTime))
             System.out.println("Minutes are equal");
         else
             System.out.println("Minutes are not equal");
